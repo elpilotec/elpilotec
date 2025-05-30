@@ -5,9 +5,9 @@
 • 🔭 I'm currently working on **[VidMakerPro](https://vidmakerpro.com)** - An AI-powered video generation platform
 • 🚀 Building next-generation AI tools for content creators
 • 💬 Ask me about React, TypeScript, JavaScript, AI/ML, and Video Generation
-• 🎯 Creator of TrendTubeAI ideas - AI tools for viral content creation
-• 🌐 Check out my live project: **[vidmakerpro.com](https://vidmakerpro.com)**
-• 📫 Know about my experiences: [https://www.linkedin.com/in/c%C3%A9sar-nicol%C3%A1s-ogando-650238198/]
+• 🎯 Creator of **[TrendTubeAI](https://trend-tube-ai-v2.vercel.app/)** - AI tools for viral content creation
+• 🌐 **Live Projects:** [VidMakerPro.com](https://vidmakerpro.com) • [TrendTubeAI](https://trend-tube-ai-v2.vercel.app/)
+• 📫 Know about my experiences: [https://www.linkedin.com/in/c%C3%A9sar-nicol%C3%A1s-ogando-650238198/?trk=public_profile-settings_edit-profile-content]
 
 ## Languages and Tools:
 
@@ -65,12 +65,12 @@
 
 | 🛠️ **Category** | 🔧 **Technologies** | 📊 **Proficiency** | 🎯 **Usage** |
 |:---|:---|:---:|:---|
-| **Frontend** | React, TypeScript, Vite, Tailwind CSS | ⭐⭐⭐⭐⭐ | VidMakerPro UI/UX |
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS | ⭐⭐⭐⭐⭐ | Both platforms UI/UX |
 | **Backend** | Node.js, Firebase, Google Cloud | ⭐⭐⭐⭐⭐ | API & Database |
 | **Authentication** | Google OAuth, Firebase Auth | ⭐⭐⭐⭐⭐ | User Management |
 | **Payments** | Stripe Integration | ⭐⭐⭐⭐ | Subscription System |
 | **AI APIs** | OpenAI, ElevenLabs, Replicate | ⭐⭐⭐⭐⭐ | Core AI Features |
-| **DevOps** | Firebase Hosting, Git, CI/CD | ⭐⭐⭐⭐ | Deployment |
+| **DevOps** | Firebase Hosting, Vercel, Git, CI/CD | ⭐⭐⭐⭐ | Multi-platform Deployment |
 
 </div>
 
@@ -124,33 +124,42 @@
 
 ---
 
-### 🎯 TrendTubeAI ideas
-> **Viral Content Generation Tools**
+### 🎯 TrendTubeAI-v2
+> **Viral Content Generation Tools** • **[Live at trend-tube-ai-v2.vercel.app](https://trend-tube-ai-v2.vercel.app/)** 🌐
 
 **Intelligent tools for content creators to generate trending YouTube video ideas and optimize for virality.**
 
 🔥 **Key Features:**
 - 📈 **Trend Analysis** - Real-time YouTube trend monitoring
-- 🎬 **Content Ideas** - AI-generated video concepts
+- 🎬 **Content Ideas** - AI-generated video concepts based on trends
 - 🚀 **SEO Optimization** - Automated title and description generation
 - 📊 **Analytics Dashboard** - Performance tracking and insights
 - 🎯 **Viral Prediction** - ML models for content success prediction
+- 🤖 **AI-Powered Research** - Automated competitor analysis
 
-**Tech Stack:** `JavaScript` `Node.js` `YouTube API` `OpenAI` `Analytics APIs`
+**Tech Stack:** `JavaScript` `Node.js` `YouTube API` `OpenAI` `Analytics APIs` `Vercel`
+
+<div align="center">
+
+[![Visit TrendTubeAI](https://img.shields.io/badge/🎯_Visit_TrendTubeAI-Live_Demo-FF6B35?style=for-the-badge&logoColor=white)](https://trend-tube-ai-v2.vercel.app/)
+
+</div>
 
 ---
 
 ## 🏆 Achievements & Expertise
 
-### 🎬 **Production AI Platform Owner**
+### 🎬 **Multi-Platform AI Product Owner**
 - **Built and launched** [VidMakerPro](https://vidmakerpro.com) - Full-stack AI video platform
+- **Built and launched** [TrendTubeAI](https://trend-tube-ai-v2.vercel.app/) - Viral content generation tool
 - **Multi-model integration** - Successfully integrated 8+ AI models
 - **Subscription SaaS** - Complete payment and user management system
-- **Production scale** - Handling real user traffic and payments
+- **Production scale** - Handling real user traffic across multiple platforms
 
 ### 📊 **Development Metrics**
 - **1,988+ Contributions** - Consistently active developer
-- **3 Active AI Projects** - VidMakerPro, TrendTubeAI series
+- **2 Live Applications** - VidMakerPro & TrendTubeAI in production
+- **3+ Active AI Projects** - VidMakerPro, TrendTubeAI series, and more
 - **2+ Years AI Experience** - From research to production
 
 ### 💡 **Technical Specializations**
@@ -159,6 +168,7 @@
 - **Video Generation Specialist** - End-to-end video creation pipelines
 - **SaaS Architecture** - Scalable subscription-based platforms
 - **Performance Optimization** - Production-ready AI applications
+- **Multi-Platform Deployment** - Firebase, Vercel, and custom hosting
 
 ## 📈 Current Focus
 
@@ -166,8 +176,8 @@
 - 🎬 **Content Automation** - Streamlining viral video creation
 - 🚀 **Scalable Architecture** - Optimizing for growing user base
 - 📊 **User Analytics** - Data-driven feature development
-- 🌐 **Product Growth** - Expanding VidMakerPro capabilities
-- 🔧 **New AI Models** - Integrating latest AI technologies
+- 🌐 **Product Growth** - Expanding both platforms' capabilities
+- 🔧 **New AI Models** - Integrating latest AI technologies across platforms
 
 ---
 
@@ -180,7 +190,8 @@
   
 ### "Transforming ideas into viral content with AI" 🎬🤖
 
-**🌐 Experience the future of video creation at [VidMakerPro.com](https://vidmakerpro.com)**
+**🌐 Experience AI-powered content creation:**
+**[VidMakerPro.com](https://vidmakerpro.com)** • **[TrendTubeAI](https://trend-tube-ai-v2.vercel.app/)**
 
 **💼 Open for collaboration on innovative AI projects**
 
