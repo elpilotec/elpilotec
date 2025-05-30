@@ -2,11 +2,12 @@
 
 🤖 **AI Developer & Video Generation Specialist**
 
-• 🔭 I'm currently working on [VidMakerPro](https://github.com/elpilotec/vidmakerpro) - An AI-powered video generation platform
-• 🚀 All of my projects are available at [github.com/elpilotec](https://github.com/elpilotec)
+• 🔭 I'm currently working on **[VidMakerPro](https://vidmakerpro.com)** - An AI-powered video generation platform
+• 🚀 Building next-generation AI tools for content creators
 • 💬 Ask me about React, TypeScript, JavaScript, AI/ML, and Video Generation
 • 🎯 Creator of TrendTubeAI series - AI tools for viral content creation
-• 📫 Know about my experiences: [https://www.linkedin.com/in/c%C3%A9sar-nicol%C3%A1s-ogando-650238198/]
+• 🌐 Check out my live project: **[vidmakerpro.com](https://vidmakerpro.com)**
+• 📫 Know about my experiences: [LinkedIn-Profile-Link]
 
 ## Languages and Tools:
 
@@ -21,60 +22,105 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+## AI Technologies I Work With:
+
+![OpenAI GPT](https://img.shields.io/badge/-OpenAI_GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-FF6B35?style=flat-square&logo=audio&logoColor=white)
+![Replicate](https://img.shields.io/badge/-Replicate-000000?style=flat-square&logo=replicate&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/-Stable_Diffusion-FF6B6B?style=flat-square&logo=stability-ai&logoColor=white)
+![Flux](https://img.shields.io/badge/-Flux_AI-6366F1?style=flat-square&logo=flux&logoColor=white)
+
 ## My WakaTime Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## GitHub Stats
+## 📊 Developer Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elpilotec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elpilotec&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+| 💻 **Development** | 🎯 **AI Projects** | 🚀 **Experience** |
+|:---:|:---:|:---:|
+| **1,988+** commits this year | **3** Active AI Projects | **2+** years in AI |
+| **TypeScript** specialist | **Video Generation** expert | **Full-Stack** developer |
+| **React/Firebase** stack | **OpenAI/ElevenLabs** APIs | **Startup** experience |
+
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elpilotec&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+## 🎬 Featured Projects
+
+### 🚀 VidMakerPro
+> **AI-Powered Video Generation Platform** • **[Live at vidmakerpro.com](https://vidmakerpro.com)** 🌐
+
+**The next-generation platform for creating viral short-form videos using artificial intelligence.**
+
+🔥 **Key Features:**
+- 🤖 **Smart Script Generation** - AI creates engaging scripts automatically
+- 🎙️ **Premium Voiceovers** - ElevenLabs integration for professional narration  
+- 🎨 **Visual AI** - Flux models for stunning visual generation
+- 🔐 **Enterprise Auth** - Secure Google OAuth integration
+- 💳 **Monetization Ready** - Stripe subscription management
+- ⚡ **Modern Architecture** - React + TypeScript + Vite + Firebase
+
+**Tech Stack:** `React` `TypeScript` `Vite` `Firebase` `OpenAI` `ElevenLabs` `Replicate` `Stripe`
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elpilotec&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+
+[![Visit VidMakerPro](https://img.shields.io/badge/🌐_Visit_VidMakerPro-Live_Demo-4285F4?style=for-the-badge&logoColor=white)](https://vidmakerpro.com)
+
 </div>
 
-## Featured Projects 🎬
-
-<div align="center">
-
-[![VidMakerPro](https://github-readme-stats.vercel.app/api/pin/?username=elpilotec&repo=vidmakerpro&theme=tokyonight&hide_border=true)](https://github.com/elpilotec/vidmakerpro)
-[![TrendTubeAI-v2](https://github-readme-stats.vercel.app/api/pin/?username=elpilotec&repo=TrendTubeAI-v2&theme=tokyonight&hide_border=true)](https://github.com/elpilotec/TrendTubeAI-v2)
-
-</div>
-
-### 🎬 VidMakerPro
-**AI-powered platform for generating viral short-form videos:**
-
-- 🤖 **AI Script Generation** with OpenAI
-- 🎙️ **Professional Voiceovers** using ElevenLabs  
-- 🎨 **Dynamic Visual Styles** with Flux models
-- 🔐 **Google Authentication**
-- 💳 **Subscription Management** with Stripe
-- ⚡ **Modern Tech Stack**: React + TypeScript + Vite + Firebase
+---
 
 ### 🎯 TrendTubeAI Series
-**Herramienta impulsada por IA para generar ideas virales:**
+> **Viral Content Generation Tools**
 
-- 📈 **Análisis de tendencias** de YouTube en tiempo real
-- 🎬 **Generación automática** de ideas de contenido
-- 🚀 **Optimización SEO** para videos
-- 📊 **Dashboard analytics** personalizado
+**Intelligent tools for content creators to generate trending YouTube video ideas and optimize for virality.**
 
-## 🏆 Achievements
+🔥 **Key Features:**
+- 📈 **Trend Analysis** - Real-time YouTube trend monitoring
+- 🎬 **Content Ideas** - AI-generated video concepts
+- 🚀 **SEO Optimization** - Automated title and description generation
+- 📊 **Analytics Dashboard** - Performance tracking and insights
+- 🎯 **Viral Prediction** - ML models for content success prediction
 
-- 📊 **1,988+ contributions** in the last year
-- 🎯 **3 Active Projects** in AI Video Generation  
-- 💡 **Expert** in OpenAI, ElevenLabs, and Replicate APIs
-- 🚀 **Full-Stack Developer** with AI specialization
-- 🎬 **Video Generation Pioneer** with cutting-edge tools
+**Tech Stack:** `JavaScript` `Node.js` `YouTube API` `OpenAI` `Analytics APIs`
+
+---
+
+### 🛠️ AI Integration Expertise
+
+**Specialized in integrating cutting-edge AI APIs:**
+
+| 🤖 **AI Service** | 🎯 **Use Case** | 📈 **Experience** |
+|:---|:---|:---:|
+| **OpenAI GPT-4** | Script generation, content optimization | 2+ years |
+| **ElevenLabs** | Professional voiceover synthesis | 1+ year |
+| **Replicate** | Image/video generation workflows | 1+ year |
+| **Flux Models** | High-quality visual content creation | 6+ months |
+| **Stable Diffusion** | Custom image generation pipelines | 1+ year |
+
+## 🏆 Achievements & Expertise
+
+- 🎬 **Video Generation Pioneer** - Built and launched [VidMakerPro](https://vidmakerpro.com) from scratch
+- 📊 **1,988+ Contributions** - Consistently active developer
+- 💡 **AI Integration Expert** - Specialized in OpenAI, ElevenLabs, Replicate APIs
+- 🚀 **Full-Stack Specialist** - Modern React/TypeScript/Firebase architecture
+- 🎯 **Startup Experience** - Built and launched AI-powered SaaS platforms
+- 🔥 **Performance Focused** - Optimized applications for scale and user experience
+- 🌐 **Live Product Owner** - Successfully deployed production AI platform
+
+## 📈 Current Focus
+
+- 🤖 **Advanced AI Workflows** - Building sophisticated video generation pipelines
+- 🎬 **Content Automation** - Developing tools for viral content creation
+- 🚀 **Scalable Architecture** - Implementing enterprise-grade solutions
+- 📊 **User Analytics** - Data-driven product development
+- 🌐 **Product Growth** - Expanding VidMakerPro user base and features
 
 ---
 
@@ -86,5 +132,9 @@
 <div align="center">
   
 ### "Transforming ideas into viral content with AI" 🎬🤖
+
+**🌐 Experience the future of video creation at [VidMakerPro.com](https://vidmakerpro.com)**
+
+**💼 Open for collaboration on innovative AI projects**
 
 </div>
