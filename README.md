@@ -5,7 +5,7 @@
 • 🔭 I'm currently working on **[VidMakerPro](https://vidmakerpro.com)** - An AI-powered video generation platform
 • 🚀 Building next-generation AI tools for content creators
 • 💬 Ask me about React, TypeScript, JavaScript, AI/ML, and Video Generation
-• 🎯 Creator of TrendTubeAI series - AI tools for viral content creation
+• 🎯 Creator of TrendTubeAI ideas - AI tools for viral content creation
 • 🌐 Check out my live project: **[vidmakerpro.com](https://vidmakerpro.com)**
 • 📫 Know about my experiences: [https://www.linkedin.com/in/c%C3%A9sar-nicol%C3%A1s-ogando-650238198/]
 
@@ -124,7 +124,7 @@
 
 ---
 
-### 🎯 TrendTubeAI Series
+### 🎯 TrendTubeAI ideas
 > **Viral Content Generation Tools**
 
 **Intelligent tools for content creators to generate trending YouTube video ideas and optimize for virality.**
