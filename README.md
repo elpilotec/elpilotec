@@ -18,32 +18,59 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## AI Technologies I Work With:
+## 🤖 AI Models & Technologies:
 
-![OpenAI GPT](https://img.shields.io/badge/-OpenAI_GPT-412991?style=flat-square&logo=openai&logoColor=white)
+### **Core AI Models Used in Production:**
+
+![OpenAI GPT-4](https://img.shields.io/badge/-OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![GPT Image 1](https://img.shields.io/badge/-GPT_Image_1-412991?style=flat-square&logo=openai&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-FF6B35?style=flat-square&logo=audio&logoColor=white)
+![Flux Schnell](https://img.shields.io/badge/-Flux_Schnell-6366F1?style=flat-square&logo=stability-ai&logoColor=white)
+![Flux Pro](https://img.shields.io/badge/-Flux_Pro-4F46E5?style=flat-square&logo=stability-ai&logoColor=white)
+![Flux Ultra](https://img.shields.io/badge/-Flux_Ultra-3730A3?style=flat-square&logo=stability-ai&logoColor=white)
 ![Replicate](https://img.shields.io/badge/-Replicate-000000?style=flat-square&logo=replicate&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/-Stable_Diffusion-FF6B6B?style=flat-square&logo=stability-ai&logoColor=white)
-![Flux](https://img.shields.io/badge/-Flux_AI-6366F1?style=flat-square&logo=flux&logoColor=white)
 
 ## My WakaTime Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 📊 Developer Stats
+## 📊 Professional Experience Overview
 
 <div align="center">
 
-| 💻 **Development** | 🎯 **AI Projects** | 🚀 **Experience** |
-|:---:|:---:|:---:|
-| **1,988+** commits this year | **3** Active AI Projects | **2+** years in AI |
-| **TypeScript** specialist | **Video Generation** expert | **Full-Stack** developer |
-| **React/Firebase** stack | **OpenAI/ElevenLabs** APIs | **Startup** experience |
+### 🎯 **AI Model Integration Experience**
+
+| 🤖 **AI Service** | 🎬 **Implementation** | 📈 **Experience** | 🚀 **Production Status** |
+|:---|:---|:---:|:---:|
+| **OpenAI GPT-4** | Script generation, content optimization | **2+ years** | ✅ **Live** |
+| **GPT Image 1** | Multi-quality image generation | **6+ months** | ✅ **Live** |
+| **ElevenLabs** | Professional voiceover synthesis | **1+ year** | ✅ **Live** |
+| **Flux Schnell** | Fast image generation (Free tier) | **8+ months** | ✅ **Live** |
+| **Flux Pro** | Medium quality images (Pro+ tier) | **6+ months** | ✅ **Live** |
+| **Flux Ultra** | High quality images (Pro++ tier) | **4+ months** | ✅ **Live** |
+| **Replicate** | Video generation workflows | **1+ year** | ✅ **Live** |
+| **Stable Diffusion** | Custom image pipelines | **1+ year** | 🔧 **Dev** |
+
+</div>
+
+### 💻 **Technical Stack Proficiency**
+
+<div align="center">
+
+| 🛠️ **Category** | 🔧 **Technologies** | 📊 **Proficiency** | 🎯 **Usage** |
+|:---|:---|:---:|:---|
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS | ⭐⭐⭐⭐⭐ | VidMakerPro UI/UX |
+| **Backend** | Node.js, Firebase, Google Cloud | ⭐⭐⭐⭐⭐ | API & Database |
+| **Authentication** | Google OAuth, Firebase Auth | ⭐⭐⭐⭐⭐ | User Management |
+| **Payments** | Stripe Integration | ⭐⭐⭐⭐ | Subscription System |
+| **AI APIs** | OpenAI, ElevenLabs, Replicate | ⭐⭐⭐⭐⭐ | Core AI Features |
+| **DevOps** | Firebase Hosting, Git, CI/CD | ⭐⭐⭐⭐ | Deployment |
 
 </div>
 
@@ -56,17 +83,38 @@
 ### 🚀 VidMakerPro
 > **AI-Powered Video Generation Platform** • **[Live at vidmakerpro.com](https://vidmakerpro.com)** 🌐
 
-**The next-generation platform for creating viral short-form videos using artificial intelligence.**
+**The next-generation platform for creating viral short-form videos using multiple AI models and subscription tiers.**
 
-🔥 **Key Features:**
-- 🤖 **Smart Script Generation** - AI creates engaging scripts automatically
-- 🎙️ **Premium Voiceovers** - ElevenLabs integration for professional narration  
-- 🎨 **Visual AI** - Flux models for stunning visual generation
-- 🔐 **Enterprise Auth** - Secure Google OAuth integration
-- 💳 **Monetization Ready** - Stripe subscription management
-- ⚡ **Modern Architecture** - React + TypeScript + Vite + Firebase
+### 🤖 **AI Models Integration:**
 
-**Tech Stack:** `React` `TypeScript` `Vite` `Firebase` `OpenAI` `ElevenLabs` `Replicate` `Stripe`
+#### **📝 Script Generation:**
+- **OpenAI GPT-4** - Advanced script creation and optimization
+- **Content Analysis** - Viral potential assessment
+
+#### **🎙️ Voice Generation:**
+- **ElevenLabs API** - Professional voiceover synthesis
+- **Multiple Voice Options** - Based on subscription tier
+
+#### **🎨 Image Generation (Multi-Model Approach):**
+- **Flux Schnell** - Fast generation (All users)
+- **Flux Pro** - Medium quality (Pro+ & Pro++)  
+- **Flux Ultra** - High quality (Pro+ & Pro++)
+- **GPT Image 1** - OpenAI's latest model with quality tiers:
+  - Low quality (Pro users)
+  - Medium quality (Pro+ users) 
+  - High quality (Pro++ users)
+
+#### **🎬 Video Generation:**
+- **Replicate** - Video synthesis and processing
+- **Custom Pipelines** - Optimized for short-form content
+
+### 💳 **Subscription System:**
+- **Free Tier** - Basic access with watermark
+- **Pro** - 10 credits, no watermark, better quality
+- **Pro+** - 20 credits, premium models access
+- **Pro++** - 30 credits, all models, highest quality
+
+**Tech Stack:** `React` `TypeScript` `Vite` `Firebase` `OpenAI` `ElevenLabs` `Replicate` `Stripe` `Google OAuth`
 
 <div align="center">
 
@@ -92,35 +140,34 @@
 
 ---
 
-### 🛠️ AI Integration Expertise
-
-**Specialized in integrating cutting-edge AI APIs:**
-
-| 🤖 **AI Service** | 🎯 **Use Case** | 📈 **Experience** |
-|:---|:---|:---:|
-| **OpenAI GPT-4** | Script generation, content optimization | 2+ years |
-| **ElevenLabs** | Professional voiceover synthesis | 1+ year |
-| **Replicate** | Image/video generation workflows | 1+ year |
-| **Flux Models** | High-quality visual content creation | 6+ months |
-| **Stable Diffusion** | Custom image generation pipelines | 1+ year |
-
 ## 🏆 Achievements & Expertise
 
-- 🎬 **Video Generation Pioneer** - Built and launched [VidMakerPro](https://vidmakerpro.com) from scratch
-- 📊 **1,988+ Contributions** - Consistently active developer
-- 💡 **AI Integration Expert** - Specialized in OpenAI, ElevenLabs, Replicate APIs
-- 🚀 **Full-Stack Specialist** - Modern React/TypeScript/Firebase architecture
-- 🎯 **Startup Experience** - Built and launched AI-powered SaaS platforms
-- 🔥 **Performance Focused** - Optimized applications for scale and user experience
-- 🌐 **Live Product Owner** - Successfully deployed production AI platform
+### 🎬 **Production AI Platform Owner**
+- **Built and launched** [VidMakerPro](https://vidmakerpro.com) - Full-stack AI video platform
+- **Multi-model integration** - Successfully integrated 8+ AI models
+- **Subscription SaaS** - Complete payment and user management system
+- **Production scale** - Handling real user traffic and payments
+
+### 📊 **Development Metrics**
+- **1,988+ Contributions** - Consistently active developer
+- **3 Active AI Projects** - VidMakerPro, TrendTubeAI series
+- **2+ Years AI Experience** - From research to production
+
+### 💡 **Technical Specializations**
+- **AI API Integration Expert** - OpenAI, ElevenLabs, Replicate, Flux models
+- **Full-Stack AI Applications** - From UI to AI backend
+- **Video Generation Specialist** - End-to-end video creation pipelines
+- **SaaS Architecture** - Scalable subscription-based platforms
+- **Performance Optimization** - Production-ready AI applications
 
 ## 📈 Current Focus
 
-- 🤖 **Advanced AI Workflows** - Building sophisticated video generation pipelines
-- 🎬 **Content Automation** - Developing tools for viral content creation
-- 🚀 **Scalable Architecture** - Implementing enterprise-grade solutions
-- 📊 **User Analytics** - Data-driven product development
-- 🌐 **Product Growth** - Expanding VidMakerPro user base and features
+- 🤖 **Advanced AI Workflows** - Multi-model pipelines for enhanced quality
+- 🎬 **Content Automation** - Streamlining viral video creation
+- 🚀 **Scalable Architecture** - Optimizing for growing user base
+- 📊 **User Analytics** - Data-driven feature development
+- 🌐 **Product Growth** - Expanding VidMakerPro capabilities
+- 🔧 **New AI Models** - Integrating latest AI technologies
 
 ---
 
