@@ -1,3 +1,5 @@
+# Hi there 👋, I'm elpilotec
+
 🤖 **AI Developer & Video Generation Specialist**
 
 • 🔭 I'm currently working on [VidMakerPro](https://github.com/elpilotec/vidmakerpro) - An AI-powered video generation platform
@@ -27,48 +29,62 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elpilotec&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elpilotec&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elpilotec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elpilotec&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elpilotec&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elpilotec&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elpilotec&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ## Featured Projects 🎬
 
-### VidMakerPro
-[![VidMakerPro](https://github-readme-stats.vercel.app/api/pin/?username=elpilotec&repo=vidmakerpro&theme=dark)](https://github.com/elpilotec/vidmakerpro)
+<div align="center">
 
-**VidMakerPro** is an AI-powered platform for generating viral short-form videos, featuring:
+[![VidMakerPro](https://github-readme-stats.vercel.app/api/pin/?username=elpilotec&repo=vidmakerpro&theme=tokyonight&hide_border=true)](https://github.com/elpilotec/vidmakerpro)
+[![TrendTubeAI-v2](https://github-readme-stats.vercel.app/api/pin/?username=elpilotec&repo=TrendTubeAI-v2&theme=tokyonight&hide_border=true)](https://github.com/elpilotec/TrendTubeAI-v2)
+
+</div>
+
+### 🎬 VidMakerPro
+**AI-powered platform for generating viral short-form videos:**
 
 - 🤖 **AI Script Generation** with OpenAI
-- 🎙️ **Professional Voiceovers** using ElevenLabs
+- 🎙️ **Professional Voiceovers** using ElevenLabs  
 - 🎨 **Dynamic Visual Styles** with Flux models
 - 🔐 **Google Authentication**
 - 💳 **Subscription Management** with Stripe
 - ⚡ **Modern Tech Stack**: React + TypeScript + Vite + Firebase
 
-### TrendTubeAI Series
-[![TrendTubeAI-v2](https://github-readme-stats.vercel.app/api/pin/?username=elpilotec&repo=TrendTubeAI-v2&theme=dark)](https://github.com/elpilotec/TrendTubeAI-v2)
+### 🎯 TrendTubeAI Series
+**Herramienta impulsada por IA para generar ideas virales:**
 
-**TrendTubeAI** es una herramienta impulsada por IA que genera ideas para videos de YouTube basadas en tendencias virales. Perfecta para creadores de contenido y YouTubers.
+- 📈 **Análisis de tendencias** de YouTube en tiempo real
+- 🎬 **Generación automática** de ideas de contenido
+- 🚀 **Optimización SEO** para videos
+- 📊 **Dashboard analytics** personalizado
 
 ## 🏆 Achievements
 
-- 📊 **1,988 contributions** in the last year
-- 🎯 **3 Active Projects** in AI Video Generation
-- 💡 **Specialist** in OpenAI, ElevenLabs, and Replicate APIs
-- 🚀 **Full-Stack Developer** with focus on AI integration
+- 📊 **1,988+ contributions** in the last year
+- 🎯 **3 Active Projects** in AI Video Generation  
+- 💡 **Expert** in OpenAI, ElevenLabs, and Replicate APIs
+- 🚀 **Full-Stack Developer** with AI specialization
+- 🎬 **Video Generation Pioneer** with cutting-edge tools
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=elpilotec&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/elpilotec?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 <div align="center">
   
 ### "Transforming ideas into viral content with AI" 🎬🤖
 
-</div> 
+</div>
