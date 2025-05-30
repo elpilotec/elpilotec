@@ -7,7 +7,7 @@
 • 💬 Ask me about React, TypeScript, JavaScript, AI/ML, and Video Generation
 • 🎯 Creator of TrendTubeAI series - AI tools for viral content creation
 • 🌐 Check out my live project: **[vidmakerpro.com](https://vidmakerpro.com)**
-• 📫 Know about my experiences: [LinkedIn-Profile-Link]
+• 📫 Know about my experiences: [https://www.linkedin.com/in/c%C3%A9sar-nicol%C3%A1s-ogando-650238198/]
 
 ## Languages and Tools:
 
